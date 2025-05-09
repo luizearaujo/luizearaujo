@@ -68,15 +68,15 @@ Com uma vasta experiência no setor financeiro, liderando equipes de alto desemp
 
 ---
 
-## 🌱 Estou Aprendendo/Atualizando
+## 🌱 Estou Estudando
 
-- [**Entendendo Algoritmos** – Aditya Bhargava](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634?tag=luizdario-20)
-- [**Estruturas de Dados e Algoritmos em JavaScript** – Loiane Groner](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932?tag=luizdario-20)
+- [**Entendendo Algoritmos** – Aditya Bhargava](https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634?tag=luizdario-20) | [https://github.com/luizearaujo/EntendendoAlgoritmos](https://github.com/luizearaujo/EntendendoAlgoritmos)
+- [**Estruturas de Dados e Algoritmos em JavaScript** – Loiane Groner](https://www.amazon.com.br/Estruturas-Dados-Algoritmos-Com-Javascript/dp/8575226932?tag=luizdario-20) | [https://github.com/luizearaujo/EstruturaDeDados](https://github.com/luizearaujo/EstruturaDeDados)
 - [**Código Limpo** – Robert C. Martin](https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675?tag=luizdario-20)
 - [**Padrões de Projetos** – Erich Gamma et al. (Gang of Four)](https://www.amazon.com.br/Padr%C3%B5es-Projetos-Solu%C3%A7%C3%B5es-Reutiliz%C3%A1veis-Orientados/dp/8573076100?tag=luizdario-20)
 - [**A Linguagem de Programação Go** – Alan A. A. Donovan e Brian W. Kernighan](https://www.amazon.com.br/Linguagem-Programa%C3%A7%C3%A3o-Go-Alan-Donovan/dp/8575225464?tag=luizdario-20)
-- [**Pro Go** – Adam Freeman](https://www.amazon.com.br/Pro-Go-Complete-Programming-Efficient/dp/1484273540?tag=luizdario-20)
-- [**Learn Go With Tests** - @quii](https://quii.gitbook.io/learn-go-with-tests)
+- [**Pro Go** – Adam Freeman](https://www.amazon.com.br/Pro-Go-Complete-Programming-Efficient/dp/1484273540?tag=luizdario-20) | [https://github.com/luizearaujo/ProGo](https://github.com/luizearaujo/ProGo)
+- [**Learn Go With Tests** - @quii](https://quii.gitbook.io/learn-go-with-tests) | [https://github.com/luizearaujo/LearnGoWithTests](https://github.com/luizearaujo/LearnGoWithTests)
 
 ---
 
