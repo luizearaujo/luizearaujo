@@ -37,8 +37,10 @@ Abaixo, você pode conferir meus projetos, contribuições e estatísticas do Gi
 
 Entre em contato comigo através das redes sociais ou por e-mail para discutirmos sobre novos projetos, oportunidades de colaboração ou qualquer outra questão.
 
-- **LinkedIn**: [Luiz Eduardo de Araujo](https://www.linkedin.com/in/luizeduardoaraujo/)
+- **LinkedIn**: [Luiz Eduardo de Araujo](https://www.linkedin.com/in/luizeduardoaraujo)
 - **GitHub**: [https://github.com/luizearaujo](https://github.com/luizearaujo)
+- **dev.to**: [https://dev.to/luizdario](https://dev.to/luizdario)
+- **Site**: [https://www.luizdario.com.br](https://www.luizdario.com.br)
 - **E-mail**: contato@luizdario.com.br
 
 ---
