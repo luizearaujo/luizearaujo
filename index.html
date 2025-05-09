@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Luiz Eduardo Dario de Araujo</title>
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+  <style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #FFFFFF;
+    margin: 40px;
+  }
+
+  #content {
+    background-color: #1e1e1e;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(255,255,255,0.1);
+  }
+
+  #content a {
+    color: #00BFFF;
+    text-decoration: underline;
+  }
+
+  #content a:hover {
+    color: #1E90FF;
+  }
+
+  #content h1, #content h2, #content h3 {
+    color: #FFFFFF;
+    text-shadow: 0px 0px 5px #00BFFF;
+  }
+
+  #content hr {
+    border: 1px solid #333333;
+  }
+
+  #content blockquote {
+    border-left: 4px solid #00BFFF;
+    padding-left: 15px;
+    color: #CCCCCC;
+    margin: 20px 0;
+  }
+
+  #content code, #content pre {
+    background-color: #1b1b1b;
+    color: #ADFF2F;
+    padding: 5px 10px;
+    border-radius: 5px;
+    display: block;
+    overflow-x: auto;
+  }
+</style>
+
+</head>
+<body>
+
+<div id="content">Carregando conteúdo...</div>
+
+<script>
+  async function loadMarkdown() {
+    const response = await fetch('index.md');
+    const text = await response.text();
+    document.getElementById('content').innerHTML = marked.parse(text);
+  }
+
+  loadMarkdown();
+</script>
+
+</body>
+</html>
