@@ -42,7 +42,7 @@ Entre em contato comigo através das redes sociais ou por e-mail para discutirmo
 - **dev.to**: [https://dev.to/luizdario](https://dev.to/luizdario)
 - **Site**: [https://www.luizdario.com.br](https://www.luizdario.com.br)
 - **E-mail**: contato@luizdario.com.br
-- **Blog**: [https://luizdario.wordpress.com/](https://luizdario.wordpress.com/)
+- **Blog**: [https://www.luizdario.com.br/blog/](https://www.luizdario.com.br/blog/) | **Mirror**: [https://luizdario.wordpress.com/](https://luizdario.wordpress.com/)
 
 ---
 
